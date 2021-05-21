@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823648248985",
+    "project_id": "naari2-dd0b5",
+    "storage_bucket": "naari2-dd0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823648248985:android:cefd4e9613a8e855cd4408",
+        "android_client_info": {
+          "package_name": "com.educationhub.naari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823648248985-ii0o3d4msu3lk5dekhbvq3in9u763s7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV60n8LokdAAejvA6MXdzSX6C6uJJpLCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823648248985-ii0o3d4msu3lk5dekhbvq3in9u763s7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

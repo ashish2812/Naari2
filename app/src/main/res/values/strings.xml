@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Naari</string>
+    <string name="slogan_app">A family Member With You</string>
+    <string name="OnBoardingSliderOneTitle">Real Time Location.</string>
+    <string name="OnBoardingSliderTwoTitle">Periods Reminder</string>
+    <string name="OnBoardingSliderThreeTitle">Helping Hand From other users.</string>
+    <string name="OnBoardingSliderFourTitle">Story and Blog</string>
+    <string name="OnBoardingSliderOneDescription">Keep share your real time location with your</string>
+    <string name="OnBoardingSliderTwoDescription">Menstruation itself doesn\'t hurt, but some girls and women get cramps or other symptoms during their periods that may be uncomfortable.
+    So Am here to remind you when will your periods will start.
+    </string>
+    <string name="OnBoardingSliderThreeDescription">One of the most important things you can do on this earth is to let people know they are not alone.</string>
+    <string name="OnBoardingSliderFourDescription">Storytelling is the most powerful way to put ideas into the world today.</string>
+    <string name="login">LogIn</string>
+    <string name="enter_phonenumber">Enter Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="enter_otp">Enter the OTP sent to +919870686646 if \n your phone number is in this phone you don\'t need to enter.</string>
+    <string name="re_enter"><u>Re-Enter</u></string>
+    <string name="facebook_app_id">224608309057537</string>
+    <string name="fb_login_protocol_scheme">fb224608309057537</string>
+
+
+</resources>
